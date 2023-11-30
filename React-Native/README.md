@@ -4,17 +4,17 @@
 
 ---
 
-React Memory Leaks: what, why, and how to clean them up!
+### React Memory Leaks: what, why, and how to clean them up!
 
-How make secure our React Native App?
+### How make secure our React Native App?
 
-How to optimize our React App?
+### How to optimize our React App?
 
-How to update state of other members without re-render in react native in video call when i mute my mic ?
+### How to update state of other members without re-render in react native in video call when i mute my mic ?
 
-Diff b/t useMemo and memo?
+### Diff b/t useMemo and memo?
 
-Dif b/n useMomo and useCallback ?
+### Diff b/n useMomo and useCallback ?
 
 Diff b/m error and bugs ?
 

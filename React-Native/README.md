@@ -4,29 +4,29 @@
 
 ---
 
-#### React Memory Leaks: what, why, and how to clean them up!
+#### Q:1 React Memory Leaks: what, why, and how to clean them up!
 
-#### How make secure our React Native App?
+#### Q:1 How make secure our React Native App?
 
-#### How to optimize our React App?
+#### Q:1 How to optimize our React App?
 
-#### How to update state of other members without re-render in react native in video call when i mute my mic ?
+#### Q:1 How to update state of other members without re-render in react native in video call when i mute my mic ?
 
-#### Diff b/t useMemo and memo?
+#### Q:1 Diff b/t useMemo and memo?
 
-#### Diff b/n useMomo and useCallback ?
+#### Q:1 Diff b/n useMomo and useCallback ?
 
-Diff b/m error and bugs ?
+#### Q:1 Diff b/m error and bugs ?
 
-React life cycle?
+#### Q:1 React life cycle?
 
-Redux life cycle.
+#### Q:1 Redux life cycle.
 
-What is Redux Saga and Redux Thunk?
+#### Q:1 What is Redux Saga and Redux Thunk?
 
-What Redux tool kit?
+#### Q:1 What Redux tool kit?
 
-What is Lazy Loading?
+#### Q:1 What is Lazy Loading?
 
 Props drilling.
 

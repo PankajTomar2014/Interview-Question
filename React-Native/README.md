@@ -2,6 +2,8 @@
 
 [Connect With Me on LinkedIn](https://www.linkedin.com/in/pankajhasmukh2014/)
 
+<a href="https://www.linkedin.com/in/pankajhasmukh2014/" target="_blank">Connect With Me on LinkedIn</a>
+
 ---
 
 

@@ -28,11 +28,11 @@
 
 #### Q:12 What is Lazy Loading?
 
-Props drilling.
+#### Props drilling.
 
-What is the steps for generate .iap and .apk?
+#### What is the steps for generate .iap and .apk?
 
-When i install apk file in android device how it run , describe the steps.
+#### When i install apk file in android device how it run , describe the steps.
 
 When you install an IPA (iOS App Store Package) file on an iOS device, it goes through several steps before it can run.
 
@@ -101,6 +101,37 @@ Diff b/t yarn & Npm?
 What is MVC ( model view controller )?
 
 Why you use react Native ?
+
+Diff b/t React Native and Flutter?
+
+Advantage of React?
+
+What is React ?
+
+What is JavaScript and TypeScript?
+
+What is the bridge in React Native?
+
+How to run a task in React Native?
+
+why we  are not using the render method In function component in React Native.
+
+Why we are using super(props) in constructor.
+
+What is mmkv storage?
+
+When i install apk file in android device how it run , describe the steps.
+
+When you install an IPA (iOS App Store Package) file on an iOS device, it goes through several steps before it can run.
+
+How i can make secure our android app ,from apk get code?
+
+How i can make secure our IOS app ,from IPA get code?
+
+React and React Native are two frameworks developed by Facebook, but they serve different purposes?
+
+How to write Clean React Native Code?
+
 
 
 

@@ -1,4 +1,6 @@
-# JavaScript Interview Questions & Answers
+# Interview Questions & Answers
+
+[Connect With Me on Medium](https://pankajhasmukh2014.medium.com/)
 
 1: [Performance Optimization technique — React Native](https://pankajhasmukh2014.medium.com/performance-optimization-technique-react-native-a6eb598813e8)
 
